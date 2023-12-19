@@ -2,9 +2,15 @@ import { StyleSheet, Text, Touchable, TouchableOpacity, View } from 'react-nativ
 import React from 'react'
 import Card from './Card'
 
+<<<<<<< HEAD
 const CategoryItem = ({ category, navigation }) => {
     return (
         <TouchableOpacity onPress={()=>navigation.navigate('Productos', {category})}>
+=======
+const CategoryItem = ({ category, onSelectCategoryEvent }) => {
+    return (
+        <TouchableOpacity onPress={()=>onSelectCategoryEvent(category)}>
+>>>>>>> cb62b1c6b5009486eb7d830c683b66911444f190
             <Card style={styles.cardContainer}>
                 <Text style={styles.text}>{category}</Text>
             </Card>

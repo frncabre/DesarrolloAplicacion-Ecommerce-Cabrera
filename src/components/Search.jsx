@@ -7,6 +7,7 @@ import { FontAwesome, MaterialIcons } from '@expo/vector-icons';
 
 const Search = ({onSearchHandlerEvent}) => {
     const [searchInput, setSearchInput] = useState('')
+<<<<<<< HEAD
     const [error, setError] = useState('')
 
     const onSearchHandler = () => {
@@ -27,6 +28,11 @@ const Search = ({onSearchHandlerEvent}) => {
 
     return (
         <>
+=======
+
+
+    return (
+>>>>>>> cb62b1c6b5009486eb7d830c683b66911444f190
         <View style={styles.searchContainer}>
             <TextInput
                 style={styles.textInput}
@@ -34,6 +40,7 @@ const Search = ({onSearchHandlerEvent}) => {
                 placeholder='Buscar ...'
                 value={searchInput}
             />
+<<<<<<< HEAD
             <TouchableOpacity onPress={()=>{onSearchHandler(searchInput)}}>
                 <FontAwesome name="search" size={24} color="black" />
             </TouchableOpacity>
@@ -49,6 +56,15 @@ const Search = ({onSearchHandlerEvent}) => {
             null
         }
         </>
+=======
+            <TouchableOpacity onPress={()=>{onSearchHandlerEvent()}}>
+                <FontAwesome name="search" size={24} color="black" />
+            </TouchableOpacity>
+            <TouchableOpacity >
+                <MaterialIcons name="cancel" size={24} color="black" />
+            </TouchableOpacity>
+        </View>
+>>>>>>> cb62b1c6b5009486eb7d830c683b66911444f190
     )
 }
 
@@ -62,8 +78,11 @@ const styles = StyleSheet.create({
     },
     textInput: {
         width: '80%'
+<<<<<<< HEAD
     },
     textError: {
         color: 'red'
+=======
+>>>>>>> cb62b1c6b5009486eb7d830c683b66911444f190
     }
 })
