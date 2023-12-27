@@ -1,30 +1,20 @@
 import { ActivityIndicator, StyleSheet, Text, View } from 'react-native';
-import CategoriesScreen from './src/screens/CategoriesScreen';
-import ProductsByCategoryScreen from './src/screens/ProductsByCategoryScreen';
 import { useFonts } from 'expo-font';
 import { fonts } from './src/global/fonts';
 import { useState } from 'react';
+import TabNavigator from './src/navigation/TabNavigator';
+import { Provider } from 'react-redux';
+import store from './src/store';
 
 
 export default function App() {
   const [fontsLoaded] = useFonts(fonts)
-  const [categorySelected, setCategorySelected] = useState('')
-
   if (!fontsLoaded) return (<ActivityIndicator />)
 
-  const onSelectCategory = (category) => {
-    setCategorySelected(category)
-  }
-
   return (
-    <>{
-      categorySelected
-      ?
-      <ProductsByCategoryScreen category={categorySelected}/>
-      :
-      <CategoriesScreen onSelectCategoryEvent={onSelectCategory} />
-    }
-    </>
+    <Provider store={store}>
+      <TabNavigator />
+    </Provider>
   );
 }
 
