@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
+    "name": "my-ecommerce-2",
+    "slug": "my-ecommerce-2",
+=======
     "name": "my-ecommerce",
     "slug": "my-ecommerce",
+>>>>>>> cb62b1c6b5009486eb7d830c683b66911444f190
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
