@@ -1,0 +1,325 @@
+[
+    {
+        "brand": "Vans",
+        "category": "vans",
+        "description": "Vans is the original action sports footwear company rooted in authenticity and creativity",
+        "discountPercentage": 6.33,
+        "id": 0,
+        "images": [
+            "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/053/931/356/original/VN0A4BV94JM.png.png?action=crop&width=360",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSuGPehaOltvHMG7vKnqjpoWGnUBZcIB7xBBwLgvxMYKbJQzwhCm4Tu0rMkzPgYuJRec&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZHaFAaXdLw72AZpqjggSyprG8Rh4ChZzIj7Nh84lN48KdbyGy4RlBuNV_LO9NX0ginU&usqp=CAU"
+        ],
+        "price": 85,
+        "rating": 4.97,
+        "stock": 115,
+        "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/053/931/356/original/VN0A4BV94JM.png.png?action=crop&width=360",
+        "title": "Vans UA OG Authentic LX Sweet Leaf White"
+    },
+    {
+        "brand": "Vans",
+        "category": "vans",
+        "description": "The Vans Old Skool VLT LX Palm Angels Pewter is part of a collaboration between Vans and Palm Angels, an LA-based, luxury streetwear label known for its rebellious, rock n’ roll aesthetic.",
+        "discountPercentage": 13.89,
+        "id": 1,
+        "images": [
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/255/814/original/1045605_01.jpg.jpeg?action=crop&width=360",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/255/818/original/1045605_03.jpg.jpeg?action=crop&width=360",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/255/823/original/1045605_06.jpg.jpeg?action=crop&width=360",
+            "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/255/828/original/1045605_08.jpg.jpeg?action=crop&width=360"
+        ],
+        "price": 138,
+        "rating": 4.64,
+        "stock": 64,
+        "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/255/814/original/1045605_01.jpg.jpeg?action=crop&width=360",
+        "title": "Vans Old Skool VLT LX Palm Angels Pewter"
+    },
+    {
+        "brand": "Vans",
+      "category": "vans",
+      "description": "The Vans Knu Skool Black White is a classic skate shoe that combines style and functionality. The upper is made of durable canvas material, which is both breathable and comfortable.",
+      "discountPercentage": 11.27,
+      "id": 2,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/427/935/original/1166042_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/427/940/original/1166042_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/427/946/original/1166042_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/427/948/original/1166042_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 93,
+      "rating": 4.98,
+      "stock": 92,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/427/935/original/1166042_01.jpg.jpeg?action=crop&width=360",
+      "title": "Vans Knu Skool Black White"
+    },
+    {
+        "brand": "Converse",
+      "category": "converse",
+      "description": "The Converse TURBODRK Chuck Taylor All Star 70 Hi Rick Owens DRKSHDW Black Lacquered Denim is a bold reinterpretation of the classic Chuck Taylor All Star 70, designed by California-born, Paris-based subversive fashion designer Rick Owens",
+      "discountPercentage": 10.56,
+      "id": 3,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/946/193/original/801197_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/946/192/original/801197_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/946/194/original/801197_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/946/190/original/801197_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 181,
+      "rating": 4.57,
+      "stock": 22,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/946/193/original/801197_01.jpg.jpeg?action=crop&width=360",
+      "title": "Converse TURBODRK Chuck Taylor All Star 70 Hi Rick Owens DRKSHDW Black Lacquered Denim"
+    },
+    {
+        "brand": "Converse",
+      "category": "converse",
+      "description": "Converse and Virgil Abloh’s Off-White teamed up once again to re-release the Converse Chuck Taylor All-Star 70s Hi Off-White. This canvas model served as a follow-up to Abloh’s first Converse collaboration that was part of the \"The Ten\" collection.",
+      "discountPercentage": 11.3,
+      "id": 4,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/012/320/original/459602_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/012/322/original/459602_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/012/325/original/459602_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/012/333/original/459602_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 254,
+      "rating": 4.54,
+      "stock": 37,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/012/320/original/459602_01.jpg.jpeg?action=crop&width=360",
+      "title": "Converse Chuck Taylor All Star 70 Hi Off-White"
+    },
+    {
+        "brand": "Converse",
+      "category": "converse",
+      "description": "Japanese designer Rei Kawakubo is one of the most prolific fashion designers of all time. Aside from her Comme des Garçons collections, she has had numerous sneaker collaborations over the years. One of the most outstanding of these collaborations involves her different iterations of work modifying and styling up the Converse Chuck Taylor with her sub-label Comme des Garçons PLAY. ",
+      "discountPercentage": 3.19,
+      "id": 5,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/977/182/original/147186_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/977/180/original/147186_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/977/189/original/147186_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/977/191/original/147186_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 110,
+      "rating": 4.98,
+      "stock": 42,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/977/182/original/147186_01.jpg.jpeg?action=crop&width=360",
+      "title": "Converse Chuck Taylor All Star 70 Hi Comme des Garcons PLAY Black"
+    },
+    {
+        "brand": "New Balance",
+      "category": "new-balance",
+      "description": "Drawing inspiration from the futuristic design trends of the Y2K era, the New Balance 9060 Grey Day (2023) sneaker seamlessly combines elements from iconic 99X models. This silhouette integrates the 990's distinctive sway bars into its upper design, and the tongue logo pays homage to the lace jewel found on the original 991 model.",
+      "discountPercentage": 17.53,
+      "id": 6,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/280/989/original/1252921_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/280/992/original/1252921_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/280/994/original/1252921_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/280/998/original/1252921_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 200,
+      "rating": 4.2,
+      "stock": 79,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/280/989/original/1252921_01.jpg.jpeg?action=crop&width=360",
+      "title": "New Balance 9060 Artic Grey"
+    },
+    {
+        "brand": "New Balance",
+      "category": "new-balance",
+      "description": "The New Balance 1906R White Metallic Gold comes in a metallic silver and metallic gold color scheme.",
+      "discountPercentage": 11.08,
+      "id": 7,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/813/908/original/1019489_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/813/906/original/1019489_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/813/904/original/1019489_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/813/901/original/1019489_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 120,
+      "rating": 4.1,
+      "stock": 63,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/813/908/original/1019489_01.jpg.jpeg?action=crop&width=360",
+      "title": "New Balance 1906R White Metallic Gold"
+    },
+    {
+        "brand": "New Balance",
+      "category": "new-balance",
+      "description": "The New Balance 2002R Protection Pack Rain Cloud features a grey mesh upper with tonal jagged suede overlays and a reflective New Balance logo. From there, a cream Nrgy midsole and grey outsole complete the design.",
+      "discountPercentage": 13.63,
+      "id": 8,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/281/125/original/793108_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/281/131/original/793108_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/281/134/original/793108_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/281/136/original/793108_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 164,
+      "rating": 4.04,
+      "stock": 115,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/281/125/original/793108_01.jpg.jpeg?action=crop&width=360",
+      "title": "New Balance 2002R Protection Pack Rain Cloud"
+    },
+    {
+        "brand": "Puma",
+      "category": "puma",
+      "description": "Embark on a journey of style and performance with the Puma LaMelo Ball MB.03 Dexter's Laboratory edition. Inspired by the animated charm of Dexter's Laboratory, this sneaker is a vibrant mix of Poison Pink and Fluro Orange Pes, creating a visually striking appearance. Designed for dynamic play, the MB.03 Dexter's Laboratory edition offers superior cushioning, agile support, and a playful yet bold aesthetic that stands out both on and off the court.",
+      "discountPercentage": 14.4,
+      "id": 9,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/553/682/original/1315157_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/553/685/original/1315157_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/553/692/original/1315157_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/553/695/original/1315157_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 120,
+      "rating": 4.19,
+      "stock": 22,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/553/682/original/1315157_01.jpg.jpeg?action=crop&width=360",
+      "title": "Puma LaMelo Ball MB.03 Dexter's Laboratory"
+    },
+    {
+        "brand": "Puma",
+      "category": "puma",
+      "description": "The Puma LaMelo Ball MB.03 Toxic effortlessly combines style and functionality, taking inspiration from an extraterrestrial realm. The design integrates bold elements such as slime and claw marks, creating a visually aggressive aesthetic.",
+      "discountPercentage": 3.34,
+      "id": 10,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/708/367/original/1283016_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/708/366/original/1283016_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/708/360/original/1283016_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/708/358/original/1283016_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 110,
+      "rating": 4.84,
+      "stock": 127,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/708/367/original/1283016_01.jpg.jpeg?action=crop&width=360",
+      "title": "Puma LaMelo Ball MB.03 Toxic"
+    },
+    {
+        "brand": "Puma",
+      "category": "puma",
+      "description": "Puma x Rihanna Fenty",
+      "discountPercentage": 3.85,
+      "id": 11,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/328/489/original/396403_03.png.png?action=crop&width=360",
+        null,
+        "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/396830/03/sv01/fnd/ARG/fmt/png"
+      ],
+      "price": 115,
+      "rating": 4.06,
+      "stock": 109,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/328/489/original/396403_03.png.png?action=crop&width=360",
+      "title": "Puma Creeper Phatty Rihanna Fenty Lavender Alert"
+    },
+    {
+        "brand": "Adidas",
+      "category": "adidas",
+      "description": "The adidas Forum Low The Simpsons Living Room is another collaboration between the iconic German sneaker company and the world-famous animated series. This shoe takes a classic silhouette originally designed in 1984 and dresses it in the colors and details from the living room of The Simpsons.",
+      "discountPercentage": 17.67,
+      "id": 12,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/804/120/original/1304887_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/804/122/original/1304887_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/804/127/original/1304887_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/804/130/original/1304887_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 142,
+      "rating": 4.21,
+      "stock": 144,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/095/804/120/original/1304887_01.jpg.jpeg?action=crop&width=360",
+      "title": "Adidas Forum Low The Simpsons Living Room"
+    },
+    {
+        "brand": "Adidas",
+      "category": "adidas",
+      "description": "Emerge from the shadows with a nod to the '90s nu-metal wave with the adidas Campus 00s KoRn. This iconic adidas silhouette gets a head-banging update in collaboration with the legendary band KoRn, bringing a piece of the mosh pit to your sneaker collection.",
+      "discountPercentage": 14.89,
+      "id": 13,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/065/846/original/1232647_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/065/849/original/1232647_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/065/842/original/1232647_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/065/840/original/1232647_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 395,
+      "rating": 4.83,
+      "stock": 96,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/065/846/original/1232647_01.jpg.jpeg?action=crop&width=360",
+      "title": "Adidas Campus 00s KoRn"
+    },
+    {
+        "brand": "Adidas",
+      "category": "adidas",
+      "description": "Elevating the Response CL, its overlays again take shape with a melt effect applied, creating wavy patterns throughout the upper.",
+      "discountPercentage": 10.94,
+      "id": 14,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/218/507/original/1351154_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/218/519/original/1351154_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/218/525/original/1351154_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/218/539/original/1351154_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 230,
+      "rating": 4.93,
+      "stock": 146,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/218/507/original/1351154_01.jpg.jpeg?action=crop&width=360",
+      "title": "Adidas Response CL Bad Bunny Wonder White"
+    },
+    {
+        "brand": "Nike",
+      "category": "nike",
+      "description": "Nike and Jordan Brand are returning back to the Spider-Verse for their second Spider-Man themed Air Jordan 1, with the release of the Air Jordan 1 High OG Spider-Man Across the Spider-Verse.",
+      "discountPercentage": 5.92,
+      "id": 15,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/116/990/original/1103114_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/116/988/original/1103114_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/116/985/original/1103114_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/116/982/original/1103114_08.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 209,
+      "rating": 4.99,
+      "stock": 44,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/116/990/original/1103114_01.jpg.jpeg?action=crop&width=360",
+      "title": "Jordan 1 Retro High OG Spider-Man Across the Spider-Verse"
+    },
+    {
+        "brand": "Nike",
+      "category": "nike",
+      "description": "Drawing inspiration from hiking culture and gear, the Nike Air Trainer 1 SP Travis Scott Grey Wheat arrives in a dark brown canvas construction with matching mesh overlays and single stitch Swoosh logos. Canvas shrouds on the upper give wearers options for styling. At the heel and inside of the tongue, concealed zipper pockets provide extra storage. From there, \"Cactus Corporation\" insignias at the heel and forefoot velcro strap complete the design.",
+      "discountPercentage": 8.84,
+      "id": 16,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/810/607/original/828563_01.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/810/609/original/828563_03.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/810/617/original/828563_06.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/810/621/original/828563_08.jpg.jpeg?action=crop&width=360",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/810/622/original/828563_09.jpg.jpeg?action=crop&width=360"
+      ],
+      "price": 192,
+      "rating": 4.32,
+      "stock": 138,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/810/607/original/828563_01.jpg.jpeg?action=crop&width=360",
+      "title": "Nike Air Trainer 1 SP Travis Scott Wheat"
+    },
+    {
+        "brand": "Nike",
+      "category": "nike",
+      "description": "The original Air Jordan 1 Chicago colorway was first introduced in 1985 and has only been retroed a few times since. But 2022 is the year that the colorway returns with an added vintage look. Pre-yellowed accents and cracked leather uppers showcase a fabricated look of age and wear.",
+      "discountPercentage": 16,
+      "id": 17,
+      "images": [
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/963/037/original/920714_01.jpg.jpeg?action=crop&width=500",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/963/036/original/920714_03.jpg.jpeg?action=crop&width=500",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/963/026/original/920714_06.jpg.jpeg?action=crop&width=500",
+        "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/963/024/original/920714_08.jpg.jpeg?action=crop&width=500"
+      ],
+      "price": 422,
+      "rating": 4.74,
+      "stock": 133,
+      "thumbnail": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/963/037/original/920714_01.jpg.jpeg?action=crop&width=360",
+      "title": "Jordan 1 Retro High OG Chicago Lost and Found"
+    }
+]

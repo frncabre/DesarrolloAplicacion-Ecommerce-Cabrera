@@ -1,0 +1,7 @@
+{
+    "name": "User",
+    "role": "Cliente",
+    "level": 1,
+    "address": "Calle Siempre Viva",
+    "city": "Springfield"
+}
