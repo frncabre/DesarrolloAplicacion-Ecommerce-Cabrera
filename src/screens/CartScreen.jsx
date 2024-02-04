@@ -63,7 +63,6 @@ const styles = StyleSheet.create({
   },
   textConfirm: {
     fontFamily: 'RobotoSlab-Bold',
-    fontSize: 16,
-    color: '#fff'
+    fontSize: 16
   }
 })

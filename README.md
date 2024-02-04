@@ -16,10 +16,11 @@ cd DesarolloAplicacion-Ecommerce-Cabrera
 npm install
 ```
 
-## Para correr la aplicación
-
-*poner los paso a paso*
-
+## Pasos para la utilización de la aplicación
+Requisito a tener en cuenta, el dispositivo tiene que ser android y tiene que estar permitida la descarga de fuentes no seguras y desactivar Play Protect dentro de la Play Store
+1. Realizar la descarga del archivo .apk [Click para descargar](https://expo.dev/artifacts/eas/7cjvoHTf3V7WtecJkBhkNb.apk)
+2. Ejecutar el archivo en el celular y seguir los pasos de instalación
+3. Ya tendria que estar disponible para su uso
 
 ## Dependencias
 - expo
